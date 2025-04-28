@@ -57,8 +57,8 @@ const Navbar = () => {
   };
 
   return (
-    <header className={`fixed top-0 left-0 right-0 w-full z-50 transition-all duration-300 `}>
-      <div className="container mx-auto px-6 flex justify-between items-center">
+    <header className={` fixed bg-opacity-50  bg-black top-0 left-0 right-0 w-full z-50 transition-all duration-300 `}>
+      <div className="container   mx-auto px-6 flex justify-between items-center">
         <a href="#home" className="text-2xl font-bold">
           <span className="text-white">S</span>hreyanshu
         </a>
