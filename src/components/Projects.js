@@ -136,7 +136,7 @@ const Projects = () => {
 
         <div className="mt-12 text-center">
           <a 
-            href="https://github.com/SHREYANSHU" 
+            href="https://github.com/shreyanshu005" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-flex items-center gap-2 px-6 py-3 bg-transparent border border-white text-white rounded-lg hover:bg-white/10 transition-all transform hover:scale-105"
